@@ -42,16 +42,12 @@ margin: 0 .75em;
 .card1,
 .card2,
 .card3,
-.card4,
- h2 {
+.card-body h2 {
   margin: .75em 0 0;
   font-weight: normal;
 }
 
-.card1,
-.card2,
-.card3,
-.card4 p {
+.card-body p {
   margin: 0 0 .75em;
 }
 
