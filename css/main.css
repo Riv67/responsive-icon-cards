@@ -1,4 +1,3 @@
-
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
@@ -40,7 +39,11 @@ body {
   padding: .75em 0 0;
 }
 
-.card-body h2 {
+.card1,
+.card2,
+.card3,
+.card4,
+ h2 {
   margin: .75em 0 0;
   font-weight: normal;
 }
