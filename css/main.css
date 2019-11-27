@@ -5,14 +5,13 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
--moz-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.3;
 }
 
 *, *::before, *::after {
@@ -106,5 +105,5 @@ body {
   html {
     font-size: 130%;
   }
-
+  
 }
