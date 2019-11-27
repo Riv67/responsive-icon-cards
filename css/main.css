@@ -23,8 +23,8 @@ body {
 }
 
 .cards {
-  list-style: none;
-  margin: 0 .75em;
+list-style: none;
+margin: 0 .75em;
 }
 
 .card-img img {
@@ -48,7 +48,10 @@ body {
   font-weight: normal;
 }
 
-.cards p {
+.card1,
+.card2,
+.card3,
+.card4 p {
   margin: 0 0 .75em;
 }
 
